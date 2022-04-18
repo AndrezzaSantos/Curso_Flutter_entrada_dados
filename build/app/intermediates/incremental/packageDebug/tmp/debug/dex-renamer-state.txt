@@ -1,0 +1,4 @@
+#Sat Apr 16 17:07:42 BRT 2022
+base.0=C\:\\AmbienteTrabalho\\projetos\\flutter\\Curso Jailton Damasceno\\entrada_dados\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
